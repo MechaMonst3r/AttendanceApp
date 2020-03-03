@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SimplyAttendance</string>
+    <string name="load_existing_course">Load Existing Course</string>
+    <string name="welcome">Welcome!</string>
+    <string name="select_load_existing_course_to_access_any_of_your_current_attendence_sheets">Select Load Existing Courseto access any of your current attendence sheets.</string>
+    <string name="please_select_create_new_course_to_get_started">Please select Create New Courseto get started.</string>
+    <string name="create_new_course">Create New Course</string>
+    <string name="enter_course_name">Enter Course Name</string>
+    <string name="enter_course_start_date">Enter Course Start Date</string>
+    <string name="enter_course_end_date">Enter Course End Date</string>
+    <string name="add_student_to_course">Add Student to Course</string>
+    <string name="enter_the_starting_date_of_your_course">Enter the Starting Date of your Course:</string>
+    <string name="enter_the_ending_date_for_your_course">Enter the Ending Date for your Course:</string>
+    <string name="enter_the_name_of_your_new_course">Enter the Name of your New Course:</string>
+    <string name="complete_course_creation">Complete Course Creation</string>
+    <string name="title_activity_new_student">newStudent</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="enter_student_name">Enter Student Name</string>
+    <string name="enter_an_interesting_fact">Enter an Interesting Fact</string>
+    <string name="enter_student_number">Enter Student Number</string>
+    <string name="finish_student_creation">Finish Student Creation</string>
+    <string name="provide_an_interesting_fact_about_yourself">Provide an Interesting Fact about yourself!</string>
+    <string name="todo">TODO</string>
+</resources>
